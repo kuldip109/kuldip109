@@ -12,14 +12,14 @@
 - :technologist: I’m passionate about leveraging Software to solve `Problems`.
 - :computer: I am a competitive programmer at `Codeforces`,  `Leetcode` and  `Codechef`.
 - :nerd_face: Always `learning new things`.
-- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/kaushal-vala-0b2818285/).
+- :boom: You can visit [MY LINKEDIN PROFILE](https://www.linkedin.com/in/kuldip-lakum-69b3a9270/).
 <br>
  <picture> <img src="competitive_programming_profile.png" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/kaushalvala"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/kaushal_vala_/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://www.codechef.com/users/kaushalvala138"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
+  <a href="https://codeforces.com/profile/KULDIP_LAKUM"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/u/22bce165/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
+	<a href="https://www.codechef.com/users/kuldip_lakum"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 
  ## Skills
 - 👨‍💻 C, C++, Java, Python...
