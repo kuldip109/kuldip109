@@ -1,7 +1,4 @@
-<h1 align="center">
-  <img src="nameKaushalVala.svg" alt="Kaushal vala" />
-</h1>
-	
+
 ## <picture><img src = "about_me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src="Right_Side.gif" width = 250px></picture>
